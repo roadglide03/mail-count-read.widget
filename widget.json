@@ -1,0 +1,6 @@
+{
+  "name": "mail-count-read.widget",
+  "description": "Displays mail count and if email is present it shows count + from + subject.  It leverages an apple script that looks for all unread messages, no configuration is necessary for the script",
+  "author": "Andy Dishong",
+  "email": "adishong@yahoo.com"
+}
